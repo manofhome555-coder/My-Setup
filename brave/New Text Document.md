@@ -19,7 +19,7 @@ Selection:	   585b70
 
 Finally, install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) & put [this](https://github.com/catppuccin/userstyles/releases/download/all-userstyles-export/import.json)  json in the manger of stylus 
 
-I also use : Urban vpn [I couldn't find the link] [sponsorblock] (https://chromewebstore.google.com/detail/sponsorblock-%D9%84%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%AA%D8%AE%D8%B7/mnjggcdmjocbbbhaepdhchncahnbgone) & finally the [uBlock Origin](https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn) after Installing it don't forget to turn it on as v2 from [here](brave://settings/extensions/v2)
+I also use : Urban vpn [I couldn't find the link] [sponsorblock](https://chromewebstore.google.com/detail/sponsorblock-%D9%84%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%AA%D8%AE%D8%B7/mnjggcdmjocbbbhaepdhchncahnbgone) & finally the [uBlock Origin](https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn) after Installing it don't forget to turn it on as v2 from [here](brave://settings/extensions/v2)
 
 
 These are my favs [Gmail](https://mail.google.com/mail/u/0/#inbox) ,[Chatgpt](https://chatgpt.com/) ,[Youtube](https://www.youtube.com/) ,[Classera](https://learn.classera.com/student/#network%20first) & [The Session](https://us05web.zoom.us/j/81457863130?pwd=hhu4buldEWPk68yxpSdnGbRQvvEs6Y.1) 
