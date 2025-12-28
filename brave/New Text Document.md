@@ -11,9 +11,11 @@ The setup
 dark reader open > more > all settings > advanced ? devtools > advanced > enable design prototype 
 copy & paste the following : 
 
-Background	1e1e2e
-Text	        cdd6f4
-Selection	585b70
+Background:    1e1e2e
+
+Text:          cdd6f4
+
+Selection:	   585b70
 
 Finally, install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) & put [this](https://github.com/catppuccin/userstyles/releases/download/all-userstyles-export/import.json)  json in the manger of stylus 
 
