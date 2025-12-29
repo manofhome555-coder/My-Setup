@@ -8,7 +8,7 @@ install [Catppuccin-mocha theme](https://chromewebstore.google.com/detail/catppu
 
 install [dark reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) & do the following : 
 The setup
-dark reader open > more > all settings > advanced ? devtools > advanced > enable design prototype 
+dark reader open > more > all settings > advanced > devtools > advanced > enable design prototype 
 copy & paste the following : 
 
 Background:    1e1e2e
