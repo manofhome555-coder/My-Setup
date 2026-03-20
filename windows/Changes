@@ -1,0 +1,2 @@
+### 03/20/2026
+Allow Powershell to use profiles : Set-ExecutionPolicy RemoteSigned , Creating profile on documents/windowspowershell , Permanent Auto-Confirmation : choco feature enable -n allowGlobalConfirmation 
