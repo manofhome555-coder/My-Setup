@@ -9,3 +9,6 @@ disabling Microsoft Edge Update Service (edgeupdatem) from auto start in service
 
 04/03/2026
 disabling VMware Authorization Service, VMware Autostart Service, VMware DHCP Service, VMware NAT Service, VMware USB Arbitration Service from autostart and, change them to manual
+
+04/06/2026
+Changing the InitialKeyboardIndicators value from 2147483648 to 2147483650 to force Num Lock on.
